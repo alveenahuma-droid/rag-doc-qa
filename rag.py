@@ -1,5 +1,3 @@
-"""Minimal RAG pipeline: PDFs -> chunks -> embeddings (Chroma) -> retrieval -> cited answer (Claude).
-
 Usage:
     python rag.py ingest --docs docs --chunk-size 800
     python rag.py ask "What is the late submission policy?" --chunk-size 800
