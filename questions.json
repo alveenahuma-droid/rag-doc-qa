@@ -1,0 +1,14 @@
+[
+  {
+    "question": "REPLACE: a question your PDF can answer",
+    "expected_keywords": ["REPLACE", "words the correct answer must contain"],
+    "source": "REPLACE-your-file-name.pdf",
+    "page": 1
+  },
+  {
+    "question": "REPLACE: a second question",
+    "expected_keywords": ["REPLACE"],
+    "source": "REPLACE-your-file-name.pdf",
+    "page": 2
+  }
+]
